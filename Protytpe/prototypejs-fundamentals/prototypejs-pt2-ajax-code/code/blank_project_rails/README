@@ -1,0 +1,5 @@
+== Simple app for learning client-side Ajax
+
+This application is a mirror of the camping application provided with the PeepCode Ajax Playbook project. The code is not idiomatic Rails code, but mirrors the behavior of the Camping application.
+
+However, those more familiar with Rails may be more comfortable working with this application rather than the Camping app with the same functionality.
